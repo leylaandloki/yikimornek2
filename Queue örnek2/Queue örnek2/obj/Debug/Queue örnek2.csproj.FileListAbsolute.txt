@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\bin\Debug\Queue örnek2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\bin\Debug\Queue örnek2.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\bin\Debug\Queue örnek2.pdb
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\obj\Debug\Queue örnek2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\obj\Debug\Queue örnek2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\obj\Debug\Queue_örnek2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\obj\Debug\Queue_örnek2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\obj\Debug\Queue örnek2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\obj\Debug\Queue örnek2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\obj\Debug\Queue örnek2.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\Queue örnek2\Queue örnek2\obj\Debug\Queue örnek2.pdb
